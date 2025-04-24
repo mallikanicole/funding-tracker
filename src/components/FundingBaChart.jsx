@@ -23,4 +23,4 @@ function FundingBaChart() {
   );
 }
 
-export default FundingBaChart;
+export default FundingBaChart;// This component fetches funding data from a JSON file and displays it in a preformatted text block. You can replace the URL with your actual data source.
